@@ -22,18 +22,15 @@ This experimental network has 4 cells, organized as pictured:
 
 The architecture is many-to-one, the cells colored in teal only output the hidden state ($h_t$), and the pink cell outputs ($y$), wich, in this example, corresponds to time $t=4$
 ## Experiments
-#### Function
+### Function
 $f(x)=\textrm{sin}(x/20)$
 ![](experiment_pictures/graph_sin.png)
-#### Train set
+### Train set
 Slice of function
+
 ![](experiment_pictures/graph_train_set.png)
-#### Results
-Losses per epoch
-
+### Results
+#### Losses per epoch
 ![](experiment_pictures/graph_losses.png)
-
-
-Predictions
-
+#### Predictions
 ![](experiment_pictures/graph_predictions.png)
