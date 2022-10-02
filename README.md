@@ -30,7 +30,10 @@ Slice of function
 ![](experiment_pictures/graph_train_set.png)
 #### Results
 Losses per epoch
+
 ![](experiment_pictures/graph_losses.png)
 
+
 Predictions
+
 ![](experiment_pictures/graph_predictions.png)
